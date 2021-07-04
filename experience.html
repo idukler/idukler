@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experience</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+
+<body>
+    <div>
+        <header>
+            <ul>
+                <li>
+                    <a href="index.html">
+                        Ido Dukler
+                        <!-- <img src="images/ido-dukler.png" width="63px" height="63px" alt="Logo of UCSD"> -->
+                    </a>
+                </li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li>
+                    <a href="https://www.github.com/idukler" class="no-padding" target="blank">
+                        <img src="images/github-logo.jpg" width="31px" height="31px" alt="Logo of LinkedIn">
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto: idukler@ucsd.edu" class="no-padding" target="blank">
+                        <img src="images/mail-icon-7.png" width="31px" height="31px" alt="Logo of Mail">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/ido-dukler-2b51701b6/" class="no-padding" target="blank">
+                        <img src="images/linkedin-logo.png" width="31px" height="31px" alt="Logo of LinkedIn">
+                    </a>
+                </li>
+            </ul>
+        </header>
+    </div>
+    <div>
+
+        <section class="light">
+            <img src="images/computer_image.png" class="style" align="right" width="540px" height="300px" alt="Computer" />
+            <!-- <h1>skills</h1> -->
+            <section class="pad"></section>
+            <h2>
+                Computer
+            </h2>
+            <p></p>
+            <h3>Proficient:</h3>
+            <p>Java, Python, UNIX, Vim, GIT</p>
+            <h3>Basic:</h3>
+            <p>GDB, Valgrind, JavaScript, HTML/CSS, Data Scraping, Data Cleaning, Data Visualizations</p>
+        </section>
+        <section class="line">
+        </section>
+        <section class="dark">
+            <section class="pad"></section>
+            <h2>Language</h2>
+            <p></p>
+            <h3>Fluent:</h3>
+            <p>English, Hebrew</p>
+            <h3>Proficient:</h3>
+            <p>Spanish</p>
+        </section>
+        <section class="line">
+        </section>
+        <section class="light">
+            <section class="pad"></section>
+            <h2>
+                Leadership
+            </h2>
+            <p></p>
+            <h3>Mountain Bike Team Captain:</h3>
+            <p>I was the captain of the largest high school mountain bike team in California for the 2019-2020 season. As captain, I helped run practice for the Varsity group, had input in team decisions, and initiated a mentorship rider program where younger
+                and older riders had the chance to ride together.
+            </p>
+        </section>
+        <!-- FIXME make button transparent onto the page itself instead of being a div/section -->
+        <div class="center">
+            <button onclick="topFunction()" id="myBtn" title="Go to top">
+                <img style="padding:0;" src="images/another-up-arrow.webp" width="80px" height="60px" alt="Logo of Arrow">
+            </button>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>

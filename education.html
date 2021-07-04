@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style-education.css">
+</head>
+
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+
+<body>
+    <div>
+        <header>
+            <ul>
+                <li>
+                    <a href="index.html" class="tooltip">
+                        Ido Dukler
+                        <!-- <img src="images/ido-dukler.png" width="63px" height="63px" alt="Logo of UCSD"> -->
+                    </a>
+                </li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li>
+                    <a href="https://www.github.com/idukler" class="no-padding" target="blank">
+                        <img src="images/github-logo.jpg" width="31px" height="31px" alt="Logo of LinkedIn">
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto: idukler@ucsd.edu" class="no-padding" target="blank">
+                        <img src="images/mail-icon-7.png" width="31px" height="31px" alt="Logo of Mail">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/ido-dukler-2b51701b6/" class="no-padding" target="blank">
+                        <img src="images/linkedin-logo.png" width="31px" height="31px" alt="Logo of LinkedIn">
+                    </a>
+                    <!-- <span>Tooltip text</span> -->
+                </li>
+            </ul>
+        </header>
+    </div>
+    <div>
+
+        <section class="light ucsd-height">
+            <img src="images/ucsd_logo.png" class="style" align="right" width="350px" height="350px" alt="Logo of UCSD" style="padding-right: 250px;" />
+            <h1>UC San Diego</h1>
+            <h2>statistics</h2>
+            <p>Mathematics - Computer Science Major</p>
+            <p>GPA: 4.00/4.00, <i>Provost Honors</i></p>
+            <p>1st year, Junior Standing</p>
+            <br>
+            <h2>notable classes</h2>
+            <p> </p>
+            <h3 class="inline">CSE 15L: </h3>
+            <p class="inline">Software Tools and Techniques Lab</p>
+            <br>
+            <h3 class="inline">CSE 12: </h3>
+            <p class="inline">Basic Data Structures & OO Design</p>
+            <br>
+            <h3 class="inline">CSE 11: </h3>
+            <p class="inline">Introduction to Computer Science and Object-Oriented Programming: Java</p>
+            <p> </p>
+            <h3 class="inline">MATH 20E: </h3>
+            <p class="inline">Vector Calculus</p>
+            <br>
+            <h3 class="inline">MATH 20D: </h3>
+            <p class="inline">Differential Equations</p>
+            <br>
+            <h3 class="inline">MATH 20C: </h3>
+            <p class="inline">Multivariable Calculus</p>
+            <br>
+            <h3 class="inline">MATH 18: </h3>
+            <p class="inline">Linear Algebra</p>
+            <p></p>
+            <!-- <h2>activities</h2>
+            <h3>Outback Adventures Club</h3>
+            <p>hjbajkdhgljksdhfglkjsdhfgjlkdshfg</p> -->
+        </section>
+        <section class="line">
+        </section>
+        <section class="dark">
+            <img src="images/panther.png" class="style" align="right" width="450px" height="270px" alt="Logo of UCSD" />
+            <h1>Newbury Park High School</h1>
+            <p>Co-Valedictorian</p>
+            <p>Weighted GPA: 4.69</p>
+            <p>Unweighted GPA: 3.83</p>
+            <h2>Activities</h2>
+            <h3>Newbury Park Mountain Bike Team</h3>
+
+
+        </section>
+        <div class="center">
+            <button onclick="topFunction()" id="myBtn" title="Go to top">
+                <img style="padding:0;" src="images/another-up-arrow.webp" width="80px" height="60px" alt="Logo of Arrow">
+            </button>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>

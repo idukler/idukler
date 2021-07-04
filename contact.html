@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>
+
+<body>
+    <div>
+        <header>
+            <ul>
+                <li>
+                    <a href="index.html">
+                        Ido Dukler
+                        <!-- <img src="images/ido-dukler.png" width="63px" height="63px" alt="Logo of UCSD"> -->
+                    </a>
+                </li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li>
+                    <a href="https://www.github.com/idukler" class="no-padding" target="blank">
+                        <img src="images/github-logo.jpg" width="31px" height="31px" alt="Logo of LinkedIn">
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto: idukler@ucsd.edu" class="no-padding" target="blank">
+                        <img src="images/mail-icon-7.png" width="31px" height="31px" alt="Logo of Mail">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/ido-dukler-2b51701b6/" class="no-padding" target="blank">
+                        <img src="images/linkedin-logo.png" width="31px" height="31px" alt="Logo of LinkedIn">
+                    </a>
+                </li>
+            </ul>
+        </header>
+    </div>
+    <div>
+
+        <section class="light">
+            <img src="images/contact_image.webp" class="style" align="right" width="540px" height="300px" alt="Logo of UCSD" />
+            <h1>contact</h1>
+            <h2>Email</h2>
+            <p>idukler@ucsd.edu</p>
+            <p>The best way to contact me is through email and can be done by clicking on its icon in the top right corner</p>
+            </p>
+
+
+        </section>
+        <section class="line">
+        </section>
+        <section class="dark">
+            <br>
+            <h2>Phone</h2>
+            <p>(805)-390-0974</p>
+            <p>My personal phone number</p>
+        </section>
+        <!-- <section class="line">
+        </section>
+        <section class="light">
+        </section> -->
+        <div class="center">
+            <button onclick="topFunction()" id="myBtn" title="Go to top">
+                <img style="padding:0;" src="images/another-up-arrow.webp" width="80px" height="60px" alt="Logo of Arrow">
+            </button>
+        </div>
+
+
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100" preserveaspectratio="none" class="one">
+            <polygon fill="rgb(122, 116, 116)" points="0,100 0,0 100,100"/> -->
+        <!-- <polygon class="svg--sm" fill="rgb(122, 116, 116)" points="0,0 30,100 65,21 90,100 100,75 100,100 0,100"/>
+            <polygon class="svg--lg" fill="rgb(122, 116, 116)" points="0,0 15,100 33,21 45,100 50,75 55,100 72,20 85,100 95,50 100,80 100,100 0,100" /> -->
+        <!-- </svg> -->
+        <!-- <section>
+            test
+        </section> -->
+        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 100 100" preserveaspectratio="none" class="two">
+            <polygon fill="white" points="0,100 100,0 100,100"/>
+           
+            
+          </svg>
+        <!-- <nav>
+
+            <div class="logos">
+                <a href="mailto: idukler@ucsd.edu" class="mail" target="blank">
+                    <img src="images/mail-icon-7.png" width="40px" height="40px" alt="Logo of Mail">
+                </a>
+                <a href="https://www.linkedin.com/in/ido-dukler-2b51701b6/" target="blank">
+                    <img src="images/linkedin-logo.png" width="40px" height="40px" alt="Logo of LinkedIn">
+                </a>
+            </div>
+        </nav> -->
+
+<!-- trying to create a website with different sized sections-->
+
+
+<!-- <div class="experience">
+                <h2 class="title">UCSD</h2>
+                <p class="text">
+                    Currently, I have become involved with the school's ACM club, which inends to broaden students' views on computer science's applications and the different routes one could take in tech. In addition, I am currently in training as a guide for Outback Adventures
+                    club.
+                </p>
+                <h2 class="title">High School</h2>
+                <p class="text">kjbdfjksbdfgjhbsdjghsdbfgjhsdbfgjksdbghjsdgjksdbgjsdbfgjksdbgkjsdbgjksdbfgksjdfgbjksdfbgjsdkfbgjkdfgjksdfgjhdbfljsbdfkjndjksfgjnkdfbglbkjsdbfgljkbsdlfgjkbsdfljkgblsdkfjbglkjbsdfglkjbsdflgkjbsdfgljkbsdlfkgjbsdglkjbdg</p>
+            </div> -->
+
+
+            <!-- add project tab -->
+
+
+            <!-- <h1>Experience</h1> -->
+            <!-- <img src="images/ucsd_logo.png" width="200px" height="200px" alt="Logo of UCSD"> -->
+
+<!-- code for random experience and buttons-->
+
+
+/* CSS for this */
+
+svg {
+    position: absolute;
+    /* padding-bottom: 100px; */
+    /* bottom: 0; */
+    width: 100%;
+    height: 200px;
+}
+
+@media (max-width: 699px) {
+    .svg--lg {
+        display: none;
+    }
+}
+
+@media (min-width: 700px) {
+    .svg--sm {
+        display: none;
+    }
+}
+
+
+.one {
+    padding-top: 200px;
+}
+
+.two {
+    bottom: -400px;
+}
