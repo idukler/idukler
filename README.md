@@ -2,12 +2,12 @@
 I'm a master’s student studying Computer Engineering at UCLA's Samueli School of Engineering with a focus on Signals & Systems. I bring internship experience from my time at [SeeByte](https://www.seebyte.com/) spanning ML, DevOps, and full-stack projects. I am actively seeking roles in ML and agentic systems, embedded systems, and edge AI. 
 
 
-Check out some of the work I have done!
+## Projects
 
-## SymStride
+### SymStride
 An AI running coach that lives in your pocket. 
 
-**Tech Stack**: Frontend: Typescript, React. Backend: Python, Flask. iPhone & Apple Watch IMU: SensorLogger app over HTTP.
+**Tech Stack**: Frontend: Typescript, React. Backend: Python, Flask. Devices: iPhone & Apple Watch IMUs sending data using the SensorLogger app over HTTP.
 
 
 <div style="text-align:center;">
@@ -45,8 +45,8 @@ An AI running coach that lives in your pocket.
 
 </div>
 
-## sEMG Activations to Keyboard Typing
-Building on Meta's emg2qwerty model for predicting keyboard typing from sEMG motor activations from your wrists.
+### sEMG Activations to Keyboard Typing
+Building on Meta's emg2qwerty dataset and model architecture to train a model for predicting keyboard typing from sEMG motor activations from your wrists.
 
 **Tech Stack**: GCP (compute), PytTorch, Numpy, Matplotlib, TensorBoard
 
@@ -70,7 +70,7 @@ Building on Meta's emg2qwerty model for predicting keyboard typing from sEMG mot
 </div>
 
 
-## Khet Puzzle Solver
+### Khet Puzzle Solver
 A state definition, web application, and AI algorithm for solving the <a href="https://en.wikipedia.org/wiki/Khet_(game)" target="_blank" rel="noopener noreferrer">Khet</a> (laser chess) puzzle.
 
 **Tech Stack**: Frontend: React, JavaScript. Backend: Python, Flask
@@ -103,7 +103,7 @@ A state definition, web application, and AI algorithm for solving the <a href="h
     <td align="center">
       <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
         <div style="height:2.4em; display:flex; align-items:flex-end;">
-          <a href="https://khet.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>Final Project</strong></a>
+          <a href="https://khet.netlify.app/" target="_blank" rel="noopener noreferrer"><strong>End-to-End Project</strong></a>
         </div>
         <a href="https://khet.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <img src="Khet/result.png" width="240" style="display:block; border:0;">
@@ -116,8 +116,8 @@ A state definition, web application, and AI algorithm for solving the <a href="h
 </div>
 
 
-## BikeWorkshop
-An virtual reality game for learning to fix a flat tire on your bike.
+### BikeWorkshop
+A virtual reality game for learning to fix your bike's flat tires.
 
 **Tech Stack**: Software: Unity, Swift, Meta Quest Hub. Devices: Oculus Quest 2
 
