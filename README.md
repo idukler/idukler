@@ -8,7 +8,7 @@ I'm a master's student studying Computer Engineering at UCLA's Samueli School of
 ### SymStride
 An AI running coach that lives in your pocket.
 
-**Tech Stack**: Frontend: Typescript, React. Backend: Python, Flask. Devices: iPhone & Apple Watch IMUs sending data using the SensorLogger app over HTTP.
+**Tech Stack**: Frontend: JavaScript, React. Backend: Python, Flask. Devices: iPhone & Apple Watch IMUs sending data using the SensorLogger app over HTTP.
 
 <div align="center">
 
@@ -21,9 +21,9 @@ An AI running coach that lives in your pocket.
 ---
 
 ### sEMG Activations to Keyboard Typing
-Building on Meta's emg2qwerty dataset and model architecture to train a model for predicting keyboard typing from sEMG motor activations from your wrists.
+Building on [Meta's emg2qwerty dataset](https://ai.meta.com/blog/open-sourcing-surface-electromyography-datasets-neurips-2024/) and model architecture to train a model for predicting keyboard typing from sEMG motor activations from your wrists.
 
-**Tech Stack**: GCP (compute), PyTorch, Numpy, Matplotlib, TensorBoard
+**Tech Stack**: Google Cloud Platform, PyTorch, Numpy, Matplotlib, TensorBoard.
 
 <div align="center">
 
@@ -36,9 +36,9 @@ Building on Meta's emg2qwerty dataset and model architecture to train a model fo
 ---
 
 ### Khet Puzzle Solver
-A state definition, web application, and AI algorithm for solving the [Khet](https://en.wikipedia.org/wiki/Khet_(game)) (laser chess) puzzle.
+An AI agent for solving the [Khet](https://en.wikipedia.org/wiki/Khet_(game)) (laser chess) board game. A mathemtical formalization of the game can be found in the manuscript.
 
-**Tech Stack**: Frontend: React, JavaScript. Backend: Python, Flask
+**Tech Stack**: Frontend: React, JavaScript. Backend: Python, Flask.
 
 <div align="center">
 
@@ -53,7 +53,7 @@ A state definition, web application, and AI algorithm for solving the [Khet](htt
 ### BikeWorkshop
 A virtual reality game for learning to fix your bike's flat tires.
 
-**Tech Stack**: Software: Unity, Swift, Meta Quest Hub. Devices: Oculus Quest 2
+**Tech Stack**: Software: Unity, Swift, Meta Quest Hub. Devices: Oculus Quest 2.
 
 <div align="center">
 
