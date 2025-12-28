@@ -13,7 +13,7 @@ An AI running coach that lives in your pocket.
         <div style="height:2.4em; display:flex; align-items:flex-end;">
           <strong>SymStride Website</strong>
         </div>
-        <a href="https://yibochen18.github.io/ECM_2025Fall_Project_16/final_report.html" style="text-decoration:none; border:0;">
+        <a href="https://yibochen18.github.io/ECM_2025Fall_Project_16/final_report.html" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <table border="0" cellpadding="8" cellspacing="0" bgcolor="#ffffff">
             <tr>
               <td>
@@ -29,7 +29,7 @@ An AI running coach that lives in your pocket.
         <div style="height:2.4em; display:flex; align-items:flex-end;">
           <strong>Demo</strong>
         </div>
-        <a href="https://youtu.be/ps6nEUCEM1I" style="text-decoration:none; border:0;">
+        <a href="https://youtu.be/ps6nEUCEM1I" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <img src="SymStride/demo.png" width="240" style="display:block; border:0;">
         </a>
       </div>
@@ -40,7 +40,7 @@ An AI running coach that lives in your pocket.
 </div>
 
 ## Khet Puzzle Solver
-A state definition, web application, and AI algorithm for solving the [Khet](https://en.wikipedia.org/wiki/Khet_(game)) (laser chess) puzzle.
+A state definition, web application, and AI algorithm for solving the <a href="https://en.wikipedia.org/wiki/Khet_(game)" target="_blank" rel="noopener noreferrer">Khet</a> (laser chess) puzzle.
 
 <div style="text-align:center;">
 
@@ -51,7 +51,7 @@ A state definition, web application, and AI algorithm for solving the [Khet](htt
         <div style="height:2.4em; display:flex; align-items:flex-end;">
           <strong>Background Presentation</strong>
         </div>
-        <a href="https://www.youtube.com/watch?v=es5wQxvOql8" style="text-decoration:none; border:0;">
+        <a href="https://www.youtube.com/watch?v=es5wQxvOql8" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <img src="Khet/game.png" width="240" style="display:block; border:0;">
         </a>
       </div>
@@ -61,7 +61,7 @@ A state definition, web application, and AI algorithm for solving the [Khet](htt
         <div style="height:2.4em; display:flex; align-items:flex-end;">
           <strong>Formal Report</strong>
         </div>
-        <a href="Khet/report.pdf" style="text-decoration:none; border:0;">
+        <a href="Khet/report.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <img src="Khet/report.png" width="240" style="display:block; border:0;">
         </a>
       </div>
@@ -71,7 +71,7 @@ A state definition, web application, and AI algorithm for solving the [Khet](htt
         <div style="height:2.4em; display:flex; align-items:flex-end;">
           <strong>Final Project</strong>
         </div>
-        <a href="https://khet.netlify.app/" style="text-decoration:none; border:0;">
+        <a href="https://khet.netlify.app/" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <img src="Khet/result.png" width="240" style="display:block; border:0;">
         </a>
       </div>
