@@ -4,7 +4,9 @@
 ## SymStride
 An AI running coach that lives in your pocket. 
 
-<table style="margin-left:auto; margin-right:auto;">
+<div style="text-align:center;">
+
+<table style="display:table; width:auto; margin:0 auto;">
   <tr>
     <td align="center">
       <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
@@ -29,9 +31,13 @@ An AI running coach that lives in your pocket.
   </tr>
 </table>
 
+</div>
+
 ## Khet Puzzle Solver
 
-<table style="margin-left:auto; margin-right:auto;">
+<div style="text-align:center;">
+
+<table style="display:table; width:auto; margin:0 auto;">
   <tr>
     <td align="center">
       <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
@@ -65,6 +71,8 @@ An AI running coach that lives in your pocket.
     </td>
   </tr>
 </table>
+
+</div>
 
 
 
