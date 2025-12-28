@@ -6,28 +6,37 @@
 <table>
   <tr>
     <td align="center">
-      <strong>Background Presentation</strong>
-      <!-- <hr> -->
-      <a href="https://www.youtube.com/watch?v=es5wQxvOql8">
-        <img src="Khet/thumbnail.png" width="240">
-      </a>
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>Background Presentation</strong>
+        </div>
+        <a href="https://www.youtube.com/watch?v=es5wQxvOql8" style="text-decoration:none; border:0;">
+          <img src="Khet/thumbnail.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
     </td>
     <td align="center">
-      <strong>Formal Report</strong>
-      <!-- <hr> -->
-      <a href="Khet/report.pdf">
-        <img src="Khet/report.png" width="240">
-      </a>
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>Formal Report</strong>
+        </div>
+        <a href="Khet/report.pdf" style="text-decoration:none; border:0;">
+          <img src="Khet/report.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
     </td>
     <td align="center">
-      <strong>Final Project</strong>
-      <!-- <hr> -->
-      <a href="https://khet.netlify.app/">
-        <img src="Khet/result.png" width="240">
-      </a>
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>Final Project</strong>
+        </div>
+        <a href="https://khet.netlify.app/" style="text-decoration:none; border:0;">
+          <img src="Khet/result.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
     </td>
   </tr>
-</table
+</table>
 
 <!-- <div style="display:flex; gap:16px; justify-content:space-between; text-align:center;">
   <div>
