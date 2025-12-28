@@ -1,5 +1,5 @@
 ## Hi there, my name is Ido! 👋
-I'm a master's student studying Computer Engineering at UCLA's Samueli School of Engineering with a focus on Signals & Systems. I bring two years of internship experience from my time at [SeeByte](https://www.seebyte.com/) spanning ML, DevOps, and full-stack projects. I am actively seeking roles in ML and agentic systems, embedded systems, and edge AI.
+I'm a master's student studying Computer Engineering at UCLA's Samueli School of Engineering (and a triton at heart 🔱) with a focus on Signals & Systems. I bring two years of internship experience from my time at [SeeByte](https://www.seebyte.com/) spanning ML, DevOps, and full-stack projects. I am actively seeking roles in ML and agentic systems, embedded systems, and edge AI.
 
 ---
 
