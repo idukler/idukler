@@ -40,6 +40,7 @@ An AI running coach that lives in your pocket.
 </div>
 
 ## Khet Puzzle Solver
+A state definition, web application, and AI algorithm for solving the [Khet](https://en.wikipedia.org/wiki/Khet_(game)) (laser chess) puzzle.
 
 <div style="text-align:center;">
 
