@@ -1,9 +1,37 @@
 ## Hi there 👋
 
+
+## SymStride
+An AI running coach that lives in your pocket. 
+
+<table style="margin-left:auto; margin-right:auto;">
+  <tr>
+    <td align="center">
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>SymStride Overview</strong>
+        </div>
+        <a href="https://yibochen18.github.io/ECM_2025Fall_Project_16/" style="text-decoration:none; border:0;">
+          <img src="SymStride/system_design.png" width="240" style="display:block; border:0; background:#fff; padding:8px; border-radius:8px; box-sizing:border-box;">
+        </a>
+      </div>
+    </td>
+    <td align="center">
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>Demo</strong>
+        </div>
+        <a href="https://youtu.be/ps6nEUCEM1I" style="text-decoration:none; border:0;">
+          <img src="SymStride/demo.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## Khet Puzzle Solver
 
-
-<table>
+<table style="margin-left:auto; margin-right:auto;">
   <tr>
     <td align="center">
       <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
@@ -11,7 +39,7 @@
           <strong>Background Presentation</strong>
         </div>
         <a href="https://www.youtube.com/watch?v=es5wQxvOql8" style="text-decoration:none; border:0;">
-          <img src="Khet/thumbnail.png" width="240" style="display:block; border:0;">
+          <img src="Khet/game.png" width="240" style="display:block; border:0;">
         </a>
       </div>
     </td>
@@ -38,31 +66,6 @@
   </tr>
 </table>
 
-<!-- <div style="display:flex; gap:16px; justify-content:space-between; text-align:center;">
-  <div>
-    <strong>Background Presentation</strong>
-    <div style="height:1px; background:#ddd; margin:6px 0;"></div>
-    <a href="https://www.youtube.com/watch?v=es5wQxvOql8">
-      <img src="Khet/thumbnail.png" width="240"/>
-    </a>
-  </div>
-
-  <div>
-    <strong>Formal Report</strong>
-    <div style="height:1px; background:#ddd; margin:6px 0;"></div>
-    <a href="Khet/report.pdf">
-      <img src="Khet/report.png" width="240"/>
-    </a>
-  </div>
-
-  <div>
-    <strong>Final Project</strong>
-    <div style="height:1px; background:#ddd; margin:6px 0;"></div>
-    <a href="https://khet.netlify.app/">
-      <img src="Khet/result.png" width="240"/>
-    </a>
-  </div>
-</div> -->
 
 
 
