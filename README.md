@@ -11,10 +11,16 @@ An AI running coach that lives in your pocket.
     <td align="center">
       <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
         <div style="height:2.4em; display:flex; align-items:flex-end;">
-          <strong>SymStride Overview</strong>
+          <strong>SymStride Website</strong>
         </div>
-        <a href="https://yibochen18.github.io/ECM_2025Fall_Project_16/" style="text-decoration:none; border:0;">
-          <img src="SymStride/system_design.png" width="240" style="display:block; border:0; background:#fff; padding:8px; border-radius:8px; box-sizing:border-box;">
+        <a href="https://yibochen18.github.io/ECM_2025Fall_Project_16/final_report.html" style="text-decoration:none; border:0;">
+          <table border="0" cellpadding="8" cellspacing="0" bgcolor="#ffffff">
+            <tr>
+              <td>
+                <img src="SymStride/system_design.png" width="240">
+              </td>
+            </tr>
+          </table>
         </a>
       </div>
     </td>
