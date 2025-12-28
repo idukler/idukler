@@ -1,4 +1,5 @@
-## Hi there 👋
+##N Hi there my name is Ido!
+I'm a master’s student studying Computer Engineering at UCLA's Samueli School of Engineering with a focus on Signals \& Systems. I bring two years of internship experience spanning ML, DevOps, and full-stack projects, and I am actively seeking roles in ML and agentic systems, embedded systems, and edge AI.
 
 
 ## SymStride
