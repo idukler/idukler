@@ -21,7 +21,7 @@ An AI running coach that lives in your pocket.
 ---
 
 ### sEMG Activations to Keyboard Typing
-Building on [Meta's emg2qwerty dataset](https://ai.meta.com/blog/open-sourcing-surface-electromyography-datasets-neurips-2024/) and model architecture to train a model for predicting keyboard typing from sEMG motor activations from your wrists.
+Building on [Meta's emg2qwerty dataset](https://ai.meta.com/blog/open-sourcing-surface-electromyography-datasets-neurips-2024/) to train a model for predicting keyboard typing from sEMG motor activations from users' wrists.
 
 **Tech Stack**: Google Cloud Platform, PyTorch, Numpy, Matplotlib, TensorBoard.
 
