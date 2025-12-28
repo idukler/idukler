@@ -1,6 +1,10 @@
 ## Hi there, my name is Ido! 👋
 I'm a master’s student studying Computer Engineering at UCLA's Samueli School of Engineering with a focus on Signals & Systems. I bring internship experience from my time at [SeeByte](https://www.seebyte.com/) spanning ML, DevOps, and full-stack projects. I am actively seeking roles in ML and agentic systems, embedded systems, and edge AI. 
 
+## Hi there 👋
+
+
+Below are a few projects showcasing my technical skills and interests.
 
 ## SymStride
 An AI running coach that lives in your pocket. 
@@ -40,6 +44,29 @@ An AI running coach that lives in your pocket.
 
 </div>
 
+## sEMG Activations to Keyboard Typing
+Building on Meta's emg2qwerty model for predicting keyboard typing from sEMG motor activations from your wrists.
+
+<div style="text-align:center;">
+
+<table style="display:table; width:auto; margin:0 auto;">
+  <tr>
+    <td align="center">
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+           <strong>Manuscript</strong>
+        </div>
+        <a href="emg2qwerty/report.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
+          <img src="emg2qwerty/report.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 ## Khet Puzzle Solver
 A state definition, web application, and AI algorithm for solving the <a href="https://en.wikipedia.org/wiki/Khet_(game)" target="_blank" rel="noopener noreferrer">Khet</a> (laser chess) puzzle.
 
@@ -60,7 +87,7 @@ A state definition, web application, and AI algorithm for solving the <a href="h
     <td align="center">
       <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
         <div style="height:2.4em; display:flex; align-items:flex-end;">
-          <strong>Formal Report</strong>
+          <strong>Manuscript</strong>
         </div>
         <a href="Khet/report.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
           <img src="Khet/report.png" width="240" style="display:block; border:0;">
@@ -83,7 +110,37 @@ A state definition, web application, and AI algorithm for solving the <a href="h
 </div>
 
 
+## BikeWorkshop
+An virtual reality game for learning to fix a flat tire on your bike.
 
+<div style="text-align:center;">
+
+<table style="display:table; width:auto; margin:0 auto;">
+  <tr>
+    <td align="center">
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>Demo</strong>
+        </div>
+        <a href="https://youtu.be/s5a_6CmKzjs" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
+          <img src="BikeWorkshop/demo.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
+    </td>
+     <td align="center">
+      <div style="display:flex; flex-direction:column; justify-content:flex-start; align-items:center; height:100%;">
+        <div style="height:2.4em; display:flex; align-items:flex-end;">
+          <strong>Background Presentation</strong>
+        </div>
+        <a href="BikeWorkshop/presentation.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none; border:0;">
+          <img src="BikeWorkshop/presentation.png" width="240" style="display:block; border:0;">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
