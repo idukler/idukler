@@ -5,6 +5,8 @@ I'm a master's student studying Computer Engineering at UCLA's Samueli School of
 
 ## Projects
 
+###
+
 ### SymStride
 An AI running coach that lives in your pocket.
 
