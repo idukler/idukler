@@ -44,7 +44,7 @@ An AI agent for solving the [Khet](https://en.wikipedia.org/wiki/Khet_(game)) (l
 
 <div align="center">
 
-| [**Background Presentation**](https://www.youtube.com/watch?v=es5wQxvOql8) | [**Manuscript**](Khet/report.pdf) | [**End-to-End Project**](https://khet.netlify.app/) |
+| [**Presentation Video**](https://www.youtube.com/watch?v=es5wQxvOql8) | [**Manuscript**](Khet/report.pdf) | [**End-to-End Project**](https://khet.netlify.app/) |
 |:---:|:---:|:---:|
 | <a href="https://www.youtube.com/watch?v=es5wQxvOql8"><img src="Khet/game.png" width="240"></a> | <a href="Khet/report.pdf"><img src="Khet/report.png" width="240"></a> | <a href="https://khet.netlify.app/"><img src="Khet/result.png" width="240"></a> |
 
