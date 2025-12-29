@@ -64,3 +64,18 @@ A virtual reality game for learning to fix your bike's flat tires.
 | <a href="https://youtu.be/s5a_6CmKzjs"><img src="BikeWorkshop/demo.png" width="240"></a> | <a href="BikeWorkshop/presentation.pdf"><img src="BikeWorkshop/presentation.png" width="240"></a> |
 
 </div>
+
+---
+
+### Building a Google Restaurant Recommendation System
+Built a recommendation system based on the Google Local Review (2021) dataset based on multiple features including NLP analysis of user review text and metadata (i.e. number of reviews).
+
+**Tech Stack**: Python, Matplotlib.
+
+<div align="center">
+
+| [**Manuscript**](GoogleRestaurantsRecommendations/report.pdf) |
+|:---:|
+| <a href="GoogleRestaurantsRecommendations/report.pdf"><img src="GoogleRestaurantsRecommendations/report.png" width="240"></a> |
+
+</div>
