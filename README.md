@@ -8,9 +8,9 @@ I'm a master's student studying Computer Engineering at UCLA's Samueli School of
 ###
 
 ### SymStride
-An AI running coach that lives in your pocket.
+An AI running coach that lives in your pocket. Using IMU sensor data from the devices you already own to give you feedback on your running form and tips to improve.
 
-**Tech Stack**: Frontend: JavaScript, React. Backend: Python, Flask. Devices: iPhone & Apple Watch IMUs sending data using the SensorLogger app over HTTP.
+**Tech Stack**: Frontend: JavaScript, React. Backend: Python, Flask. Devices: iPhone & Apple Watch for IMU sensor data.
 
 <div align="center">
 
@@ -25,7 +25,7 @@ An AI running coach that lives in your pocket.
 ### sEMG Activations to Keyboard Typing
 Building on [Meta's emg2qwerty dataset](https://ai.meta.com/blog/open-sourcing-surface-electromyography-datasets-neurips-2024/) to train a model for predicting keyboard typing from sEMG motor activations from users' wrists.
 
-**Tech Stack**: Google Cloud Platform, PyTorch, Numpy, Matplotlib, TensorBoard.
+**Tech Stack**: PyTorch, Google Cloud Platform (GCP), Numpy, Matplotlib, TensorBoard.
 
 <div align="center">
 
