@@ -70,7 +70,7 @@ A virtual reality game for learning to fix your bike's flat tires.
 ### Building a Google Restaurant Recommendation System
 Built a recommendation system based on the Google Local Review (2021) dataset based on multiple features including NLP analysis of user review text and metadata (i.e. number of reviews).
 
-**Tech Stack**: Python, Matplotlib.
+**Tech Stack**: Python, scikit-learn, Matplotlib.
 
 <div align="center">
 
