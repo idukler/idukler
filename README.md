@@ -14,9 +14,9 @@ An AI running coach that lives in your pocket. Using IMU sensor data from the de
 
 <div align="center">
 
-| [**SymStride Website**](https://yibochen18.github.io/ECM_2025Fall_Project_16/final_report.html) | [**Demo**](https://youtu.be/ps6nEUCEM1I) |
+| [**SymStride Website**](https://yibochen18.github.io/SymStride/final_report.html) | [**Demo**](https://youtu.be/ps6nEUCEM1I) |
 |:---:|:---:|
-| <a href="https://yibochen18.github.io/ECM_2025Fall_Project_16/final_report.html"><img src="SymStride/system_design.png" width="240"></a> | <a href="https://youtu.be/ps6nEUCEM1I"><img src="SymStride/demo.png" width="240"></a> |
+| <a href="https://yibochen18.github.io/SymStride/final_report.html"><img src="SymStride/system_design.png" width="240"></a> | <a href="https://youtu.be/ps6nEUCEM1I"><img src="SymStride/demo.png" width="240"></a> |
 
 </div>
 
